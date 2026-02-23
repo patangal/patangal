@@ -62,7 +62,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patangal&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patangal&theme=tokyonight&hide_border=true&cache_bust=1)
 
 </div>
 
